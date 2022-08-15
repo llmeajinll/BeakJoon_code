@@ -1,14 +1,3 @@
-# func = input()
-# keep = []
-# k = 0
-# for i in range(len(func)):
-#     if func[i] == "+" or func[i] == "-":
-#         keep.append(int(func[k:i]))
-#         keep.append(func[i])
-#         k = i + 1
-#
-# keep.append(func[k:len(func)])
-
 form = input().split('-')
 
 div = []
